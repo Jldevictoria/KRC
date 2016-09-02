@@ -5,7 +5,7 @@
 
 #include <stdio.h>
 
-// Print Gahrenheit-Celsius table
+// Print Fahrenheit-Celsius table
 // for fahr = 0, 20, ..., 300; floating point version.
 
 main() {
